@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DragMenuView.h"
 
 @interface ViewController : UIViewController
+{
+    DragMenuView *demoDMView;
+}
 
 @end
