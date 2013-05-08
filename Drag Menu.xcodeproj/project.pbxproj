@@ -20,13 +20,13 @@
 		9B41397417211A9F00C8294F /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B41397217211A9F00C8294F /* ViewController.xib */; };
 		9B41397D1721453900C8294F /* padBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B41397C1721453900C8294F /* padBg.png */; };
 		9B4139801721508000C8294F /* UIView+Positioning.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B41397F1721508000C8294F /* UIView+Positioning.m */; };
-		9BB1FBFA17222A28005A0705 /* loloption2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FBF817222A28005A0705 /* loloption2.png */; };
 		9BB1FBFB17222A28005A0705 /* lolpadBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FBF917222A28005A0705 /* lolpadBg.png */; };
-		9BB1FBFF172242B8005A0705 /* loloption0.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FBFC172242B8005A0705 /* loloption0.png */; };
-		9BB1FC00172242B8005A0705 /* loloption1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FBFD172242B8005A0705 /* loloption1.png */; };
-		9BB1FC01172242B8005A0705 /* loloption3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FBFE172242B8005A0705 /* loloption3.png */; };
 		9BB1FC0317224426005A0705 /* lolpadSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BB1FC0217224426005A0705 /* lolpadSelected.png */; };
 		9BB1FC0617225189005A0705 /* DragMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BB1FC0517225189005A0705 /* DragMenuView.m */; };
+		9BEF23031724D4300080EBEE /* loloption0.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BEF22FF1724D4300080EBEE /* loloption0.png */; };
+		9BEF23041724D4300080EBEE /* loloption1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BEF23001724D4300080EBEE /* loloption1.png */; };
+		9BEF23051724D4300080EBEE /* loloption2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BEF23011724D4300080EBEE /* loloption2.png */; };
+		9BEF23061724D4300080EBEE /* loloption3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BEF23021724D4300080EBEE /* loloption3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,14 +49,14 @@
 		9B41397C1721453900C8294F /* padBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = padBg.png; sourceTree = "<group>"; };
 		9B41397E1721508000C8294F /* UIView+Positioning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Positioning.h"; sourceTree = "<group>"; };
 		9B41397F1721508000C8294F /* UIView+Positioning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Positioning.m"; sourceTree = "<group>"; };
-		9BB1FBF817222A28005A0705 /* loloption2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption2.png; sourceTree = "<group>"; };
 		9BB1FBF917222A28005A0705 /* lolpadBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lolpadBg.png; sourceTree = "<group>"; };
-		9BB1FBFC172242B8005A0705 /* loloption0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption0.png; sourceTree = "<group>"; };
-		9BB1FBFD172242B8005A0705 /* loloption1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption1.png; sourceTree = "<group>"; };
-		9BB1FBFE172242B8005A0705 /* loloption3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption3.png; sourceTree = "<group>"; };
 		9BB1FC0217224426005A0705 /* lolpadSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lolpadSelected.png; sourceTree = "<group>"; };
 		9BB1FC0417225189005A0705 /* DragMenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DragMenuView.h; sourceTree = "<group>"; };
 		9BB1FC0517225189005A0705 /* DragMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DragMenuView.m; sourceTree = "<group>"; };
+		9BEF22FF1724D4300080EBEE /* loloption0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption0.png; sourceTree = "<group>"; };
+		9BEF23001724D4300080EBEE /* loloption1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption1.png; sourceTree = "<group>"; };
+		9BEF23011724D4300080EBEE /* loloption2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption2.png; sourceTree = "<group>"; };
+		9BEF23021724D4300080EBEE /* loloption3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loloption3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,11 +143,11 @@
 		9B41397B1721453900C8294F /* images */ = {
 			isa = PBXGroup;
 			children = (
+				9BEF22FF1724D4300080EBEE /* loloption0.png */,
+				9BEF23001724D4300080EBEE /* loloption1.png */,
+				9BEF23011724D4300080EBEE /* loloption2.png */,
+				9BEF23021724D4300080EBEE /* loloption3.png */,
 				9BB1FC0217224426005A0705 /* lolpadSelected.png */,
-				9BB1FBFC172242B8005A0705 /* loloption0.png */,
-				9BB1FBFD172242B8005A0705 /* loloption1.png */,
-				9BB1FBFE172242B8005A0705 /* loloption3.png */,
-				9BB1FBF817222A28005A0705 /* loloption2.png */,
 				9BB1FBF917222A28005A0705 /* lolpadBg.png */,
 				9B41397C1721453900C8294F /* padBg.png */,
 			);
@@ -211,12 +211,12 @@
 				9B41396E17211A9F00C8294F /* Default-568h@2x.png in Resources */,
 				9B41397417211A9F00C8294F /* ViewController.xib in Resources */,
 				9B41397D1721453900C8294F /* padBg.png in Resources */,
-				9BB1FBFA17222A28005A0705 /* loloption2.png in Resources */,
 				9BB1FBFB17222A28005A0705 /* lolpadBg.png in Resources */,
-				9BB1FBFF172242B8005A0705 /* loloption0.png in Resources */,
-				9BB1FC00172242B8005A0705 /* loloption1.png in Resources */,
-				9BB1FC01172242B8005A0705 /* loloption3.png in Resources */,
 				9BB1FC0317224426005A0705 /* lolpadSelected.png in Resources */,
+				9BEF23031724D4300080EBEE /* loloption0.png in Resources */,
+				9BEF23041724D4300080EBEE /* loloption1.png in Resources */,
+				9BEF23051724D4300080EBEE /* loloption2.png in Resources */,
+				9BEF23061724D4300080EBEE /* loloption3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
