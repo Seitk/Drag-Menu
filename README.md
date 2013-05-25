@@ -11,7 +11,7 @@ In addition, I also wrote some code to show that how to restrict a pointer view 
 ![ScreenShot](https://github.com/Seitk/Drag-Menu/blob/master/Drag%20Menu/resources/screenshot2.png?raw=true) &nbsp; ![ScreenShot](https://github.com/Seitk/Drag-Menu/blob/master/Drag%20Menu/resources/screenshot3.png?raw=true)
 
 Usage  
-Just simply include DragMenuView.h, add it into the TOP of your view. Then register a UIPanGestureRecognizer in a draggable view. Reminded that this will use your drag gesture so that it is not compatible with your scrollviews (Well, you can still use two-finger to scroll but i don't think i can say it as compatible).
+Just simply include DragMenuView.h, add it into the TOP of your view. Then register a UIPanGestureRecognizer in a draggable view. Reminded that this will use your drag gesture so that it is not compatible with your scrollviews .
 
 Example:
 
